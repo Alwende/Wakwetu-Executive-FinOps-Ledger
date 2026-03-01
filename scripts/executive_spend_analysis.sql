@@ -1,5 +1,5 @@
 -- WAK-OPS-010: Executive FinOps Ledger
--- Objective: Real-time unit economics by service
+-- Objective: Real-time unit economics by service for ExCo leadership
 
 SELECT 
   line_item_product_code as Service, 
